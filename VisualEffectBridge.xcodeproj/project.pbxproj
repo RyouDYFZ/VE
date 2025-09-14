@@ -8,6 +8,8 @@
 
 /* Begin PBXFileReference section */
 		551756D22E76989C00E8EDD6 /* libVisualEffectBridge.dylib */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.dylib"; includeInIndex = 0; path = libVisualEffectBridge.dylib; sourceTree = BUILT_PRODUCTS_DIR; };
+		55CFD2922E76A15A00DC3938 /* build_bridge.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = build_bridge.sh; sourceTree = "<group>"; };
+		55CFD2932E76A36500DC3938 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +34,8 @@
 		551756C92E76989C00E8EDD6 = {
 			isa = PBXGroup;
 			children = (
+				55CFD2922E76A15A00DC3938 /* build_bridge.sh */,
+				55CFD2932E76A36500DC3938 /* README.md */,
 				551756D42E76989C00E8EDD6 /* VisualEffectBridge */,
 				551756D32E76989C00E8EDD6 /* Products */,
 			);
